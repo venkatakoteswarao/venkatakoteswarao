@@ -11,14 +11,6 @@
 
 ---
 
-### 👨‍🎓 Education
-- 🎓 **B.Tech in Artificial Intelligence and Machine Learning**  
-  Narasaraopeta Engineering College, CGPA: **8.57** *(Expected 2026)*
-- 🏫 Class XII – Sri Chaitanya Junior College, CGPA: **8.79**
-- 🏫 Class X – Sri Chaitanya School, CGPA: **10**
-
----
-
 ### 💼 Internship Experience
 - **Data Science Intern – MVG Innovations (3 Months)**  
   - Collected and preprocessed raw datasets for analysis  
