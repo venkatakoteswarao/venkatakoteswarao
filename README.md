@@ -30,7 +30,7 @@
 
 ### 🛠️ Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,flask,streamlit,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,flask,github" />
 </p>
 
 ---
