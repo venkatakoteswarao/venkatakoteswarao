@@ -41,13 +41,6 @@
 - ⚡ Quick Learner & Hardworking  
 - 👥 Team Collaboration
 
----
-
-### 📫 Contact Me
-- 📧 Email: [kotisuraboina@gmail.com](mailto:kotisuraboina@gmail.com)
-- 📱 Phone: +91 9392361822
-- 📍 Location: Palnadu District, Andhra Pradesh  
-- 🔗 LinkedIn: *(Add your LinkedIn profile link here)*
 
 ---
 
